@@ -5,7 +5,8 @@
 ##### 2. Making files public is not completely a good solution beacause, it can get your ass 'DMCA strikes' or can show 'quota exceeded errors' if your publishing pirated content! 
 
 Clicking on the thumbnail or the 'play btn' will open drive player. 
-![img](Screenshot_20200914-002508.png) 
+[i](Screenshot_20200914-00n) 
+![hi](PicsArt_09-14-12.40.36.png) 
 
 ## USAGE:
 If you are new,
